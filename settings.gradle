@@ -1,0 +1,4 @@
+rootProject.name = 'test-code'
+include 'the-java-8'
+include 'the-java-app'
+include 'the-java-test'
